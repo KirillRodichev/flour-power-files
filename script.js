@@ -1,6 +1,5 @@
 "use strict";
 window.addEventListener("DOMContentLoaded", function () {
-  console.log("func");
   // Global variables
   var userAgent = navigator.userAgent.toLowerCase(),
     initialDate = new Date(),
